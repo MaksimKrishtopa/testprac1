@@ -7,5 +7,19 @@
 "none_existent_password": "Test",
 "password": "Password1",
 "login_incorrect": "testtest",
-"password_incorrect": "passw"
+"password_incorrect": "passw",
+"password_confirm_incorrect": "passw",
+"email": "krishtopamk21@gmail.com",
+"email_incorrect": "krishtopamkgmail.com",
+"surname": "Криштопа",
+"name": "Максим",
+"patronymic": "Петрович",
+"surname_incorrect": "Kaka",
+"name_incorrect": "VvV",
+"patronymic_incorrect": "ppP",
+"login_canbe_unique": "testerStudent",
+"email_canbe_unique": "krishtopamk21@gmail.com",
+"registered_login": "Maks",
+"registered_password": "Test217",
+"password_confirm": "Test217"
 }
