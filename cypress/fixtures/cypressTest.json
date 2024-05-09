@@ -2,8 +2,10 @@
 "auth_url": "https://dev.profteam.su/login",
 "register_url": "https://dev.profteam.su/registration",
 "profile_url": "",
-"none_existent_login": "test2252test",
+"none_existent_login": "kardan",
 "login":"testerStudent",
 "none_existent_password": "Test",
-"password": "Password1"
+"password": "Password1",
+"login_incorrect": "testtest",
+"password_incorrect": "passw"
 }
