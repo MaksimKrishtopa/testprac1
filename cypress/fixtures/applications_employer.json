@@ -3,7 +3,10 @@
     "login": "Maks",
     "password": "Test217",
     "comp_name": "VapeDevice",
+    "negative_comp_name": "VapeDevice$",
     "desc_company": "Электронные испарители",
-    "address_comp": "Гагарина 52"
+    "negative_desc_company": "Электронные испарители & жидкости",
+    "address_comp": "Гагарина 52",
+    "negative_address_comp": "Гагарина52/1"
 }
     
