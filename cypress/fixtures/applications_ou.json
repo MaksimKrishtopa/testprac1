@@ -3,6 +3,7 @@
     "login": "Maks",
     "password": "Test217",
     "name_edu": "МГИМО",
+    "negative_name_edu": "MGI & MO",
     "address_edu": "Проспект Вернадского, 76",
     "desc_edu": "Московский государственный институт международных отношений"
 }
